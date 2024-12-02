@@ -1,6 +1,7 @@
 # Training-Material-Collector
 AI Training Material Collector
 ## English
+### The background image( bg.png )is from the Internet. If there is any infringement, please contact me to delete it.
 This is a website for collecting Large Language Model training material texts
 Users can add prompts to the database by submitting input and output information
 Administrators can log in to the Dashboard through the Login page to manage the content already in the database, or download txt documents generated in json format.
@@ -24,7 +25,9 @@ password:xiaoqi666
 ### The main function of this website is: when a person wants to train a large language model in a specific aspect, he needs to write a lot of prompt words and they are not comprehensive. However, he can call on more netizens through the Internet to jointly complete the creation of the prompt words
 
 ### This website only implements the most basic functions and is very simple. I hope it can be improved with everyone's help.
+#### Email:2726132097@qq.com
 ## Chinese
+### 背景图片(bg.png)来自网络，如有侵权请联系我删除。
 这是一个用来收集AI大语言模型训练素材文本的网站
 网友可以通过提交input和output信息来向数据库中添加prompt
 管理员可以通过Login页面登陆Dashboard来对已经在数据库中的内容进行管理，也可以下载按照json格式生成的txt文档
@@ -47,3 +50,4 @@ password:xiaoqi666
 
 ### 这个网站的主要功能是：当一个人想要训练某个特殊方面的Large Language Model的时候，需要写非常多的提示词而且不全面。但是他可以通过网络召集更多网友来共同完成这个提示词的创作
 ### 这个网站仅仅只实现了最基础的功能，非常简单。希望在大家的帮助下可以越来越完善
+#### Email:2726132097@qq.com

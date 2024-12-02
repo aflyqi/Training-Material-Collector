@@ -1,7 +1,7 @@
 # Training-Material-Collector
 AI Training Material Collector
 ## English
-### To prevent copyright infringement, you need to add a background image (bg.png) to the images folder. My original image size is 3840x2083
+### To prevent copyright infringement, I deleted the original background image. You need to add a background image (bg.png) to the images folder. My original image size is 3840x2083
 This is a website for collecting Large Language Model training material texts
 Users can add prompts to the database by submitting input and output information
 Administrators can log in to the Dashboard through the Login page to manage the content already in the database, or download txt documents generated in json format.
@@ -27,7 +27,7 @@ password:xiaoqi666
 ### This website only implements the most basic functions and is very simple. I hope it can be improved with everyone's help.
 #### Email:2726132097@qq.com
 ## Chinese
-### 为了防止侵权，你需要在images文件夹中添加一张背景图片（bg.png）。我的原本的图片大小为3840x2083
+### 为了防止侵权，我删除了原本的背景图片。你需要在images文件夹中添加一张背景图片（bg.png）。我的原本的图片大小为3840x2083
 这是一个用来收集AI大语言模型训练素材文本的网站
 网友可以通过提交input和output信息来向数据库中添加prompt
 管理员可以通过Login页面登陆Dashboard来对已经在数据库中的内容进行管理，也可以下载按照json格式生成的txt文档
